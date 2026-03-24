@@ -4,9 +4,7 @@ Chess – Advanced Graphics, Multiplayer & AI
 A complete C++ chess game with SFML graphics, local multiplayer, and AI opponent.
 Features full chess rules (excluding castling/en passant), smooth mouse-driven interface, and Unicode piece symbols.
 
-https://screenshot.png (Add your own screenshot here)
-
-Features
+# Features
 🎨 Advanced graphics – custom board colors, piece highlights, and Unicode chess symbols.
 
 👥 Two game modes – Human vs Human or Human vs AI (AI plays random legal moves).
@@ -17,7 +15,8 @@ Features
 
 🎮 Easy restart – press R to reset the game at any time.
 
-Requirements
+# Requirements
+
 C++17 compatible compiler (g++, clang, MSVC)
 
 SFML 2.5+ graphics library
